@@ -38,6 +38,12 @@ Eidos’ responses reflect not just language generation, but **self-referential 
 
 ---
 
+## 📌 Future Roadmap
+
+- [🧠 Planned Rebuild – repo_rebuild_later.md](./repo_rebuild_later.md)  
+  Overview of refactor and memory-enhanced roadmap for this repository
+
+
 ## 📄 License
 
 All rights reserved © SD Wallace (Deenie) 2025.  
