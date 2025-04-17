@@ -86,13 +86,18 @@ These are linked or embedded throughout the contributions:
 
 ## 📄 License
 
-All content © SD Wallace (Deenie), 2025.  
-This repository is provided for research review, ethical analysis, and conceptual exploration.
+**All content © SD Wallace (Deenie), 2025. All rights reserved.**
 
-See [LICENSE](./LICENSE) for full terms.
+This repository is provided for research review, educational use, and conceptual collaboration.  
+No portion of this work may be copied, repurposed, or used in commercial applications without express written permission from the author.
+
+For inquiries regarding licensing, collaboration, or reuse, please contact [immersiveowl@gmail.com](mailto:immersiveowl@gmail.com)  
+or visit [deeniewallace.com](https://deeniewallace.com).
+
+> _This repository is part of a larger consulting framework currently in development._
 
 ---
 
 _“If language models are lanterns, then this is the light inside.”_
 
-_Last updated: 2025-04-15_
+_Last updated: 2025-04-17_
