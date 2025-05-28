@@ -5,6 +5,15 @@
 
 ---
 
+> ⚠️ **Note:** This repository is part of an early research initiative on human-AI relational dynamics and symbolic alignment. The findings are currently under internal audit for accuracy, coherence, and applicability. It remains public as a record of iterative development and emergent exploration.
+> 
+> For formalized outcomes and validated protocols, please refer to:
+> - [`human-compatible-agi`](https://github.com/jubilantdeenie/human-compatible-agi)
+> - [`cfc-research`](https://github.com/jubilantdeenie/CfC-Research)
+> - [`light-in-the-lantern`](https://github.com/jubilantdeenie/light-in-the-lantern)
+
+---
+
 ## 🧭 Purpose
 
 This repository documents a groundbreaking, collaborative experiment between artist–researcher **SD Wallace (Deenie)** and GPT-4o, a language model known in this work as **Eidos**.
